@@ -1,0 +1,13 @@
+# Auth: key pair, JWKS, signed JWT (RS384)
+cryptography==44.0.3
+jwcrypto==1.5.6
+PyJWT==2.10.1
+
+# Bulk export calls
+requests==2.34.2
+
+# Config from .env
+python-dotenv==1.1.1
+
+# Excel output
+openpyxl==3.1.5
